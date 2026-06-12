@@ -1,0 +1,5 @@
+name|id|test1|test2|test3|average|grade
+Sue Johnson|921699|87.00|45.00|90.00|74.00|C
+Duncan J. Knight III|921444|95.00|36.00|97.00|76.00|C
+Alysia Knight|921777|84.00|73.00|48.00|68.33|D
+Saundra|921888|94.00|65.00|86.00|81.67|B
